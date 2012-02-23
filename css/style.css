@@ -1550,7 +1550,7 @@ footer {
 	background-position:0 -149px;
 }
 .main .republic-listing ul li.hot h2:before{
-	background-position:0 -100px;
+	background-position:0 -250px;
 }
 .main .republic-listing ul.col2 li{
 	background:url(../images/vertical-bg.png) repeat-y left !important;
@@ -1935,4 +1935,138 @@ a.more-details{
 .login-popup label a{
 	text-decoration:none !important;
 	color:#6d6e71;
+}
+.characters{
+	padding-left:20px;
+	margin-top:15px;
+}
+.characters h4{
+	font-family: "museo-sans-1","museo-sans-2";
+	text-transform:uppercase;
+	font-size:15px;
+	margin-bottom:10px;
+}
+
+.char-entry{
+	background:url(../images/separator-characters.png) no-repeat top left;
+	padding-top:16px;
+	padding-bottom:30px;
+}
+.char-entry img{
+	float:left;
+	height:89px;
+	width:101px;
+}
+.char-text{
+	width:585px;
+	float:left;
+	font-family: "museo-sans-1","museo-sans-2";
+	color:#000;
+	margin-left:10px;
+}
+.char-text h2{
+	font-size:22px;
+	font-weight:bold;
+}
+.char-text span{
+	color:#939291;
+	font-size:13px;
+	font-weight:bold;
+}
+.char-text p{
+	font-size:13px;
+	margin-top:10px;
+	line-height:1.6;
+}
+.char-info{
+	width:240px;
+	float:left;
+	text-transform:uppercase;
+	font-family: "museo-sans-1","museo-sans-2";
+	font-weight:bold;
+	font-size:14px;
+	line-height:1.8;
+	margin-top:60px;
+	margin-left:20px;
+}
+.characters.film .char-info{
+	color:#dcc41d;
+}
+.whats-hot .vote-controls span{
+	font-size:18px;
+
+}
+.whats-hot .vote-controls{
+	margin-top:35px;
+	padding-bottom:50px;
+	margin-left:10px;
+	margin-right:10px;
+}
+.whats-hot h4{
+	color:#cf212d;
+	text-transform:uppercase;
+}
+.main section .whats-hot ul li.single{
+	background:url(../images/separator-characters.png) no-repeat top left;
+	width:966px;
+}
+.main section .whats-hot ul li.single h3{
+	width:720px;
+	font-size:18px;
+}
+.main section .whats-hot ul li.single p{
+	width:720px;
+	font-size:14px;
+}
+.main section .whats-hot ul li.single a.icon{
+	background:url(../images/homepage-sprite.png) no-repeat;
+	height:48px;
+	width:48px;
+	display:block;
+	float:left;
+	margin-top:45px;
+	margin-left:20px;
+}
+.main section .whats-hot ul li.single.film a.icon{
+	background-position:0 -100px;
+}
+.main section .whats-hot .live-info{
+	margin-right:50px;
+}
+.main section .whats-hot .meta li{
+	position:relative;
+	font-size:18px;
+	top:0;
+	left:0;
+	display:inline;
+	width:auto;
+	padding-bottom:0;
+	margin-bottom:0;
+}
+.main section .whats-hot .meta li a{
+	position:relative;
+	top:0;
+	left:0;
+	display:inline !important;
+	width:auto;
+	font-size:13px;
+	padding-right:25px;
+	padding-bottom:0;
+	margin-bottom:0;
+}
+.main section .whats-hot span.from{
+	display:block;
+	clear:both;
+	margin-left:182px;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+.main section .whats-hot span.from a{
+	display:inline-block;
+	background: url(../images/icon-film-small.png) no-repeat center left;
+	padding-left:25px;
+	text-decoration:none;
+}
+.main section .whats-hot ul li.single.film span.from a{
+	color:#dbba26;
 }

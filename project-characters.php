@@ -51,7 +51,74 @@
         <?php include( 'header-film-project.php' ); ?>
         
         <div class="main">
-          <img src="images/project-characters.gif" />
+        	<div class="characters film">
+            	<h4>Approved Characters</h4>
+            	<div class="char-entry group">
+                	<img src="images/character.png" width="101" height="89" alt="character">
+                    <div class="char-text">
+                    	<h2>William Richardson</h2>
+                        <span>Played by Danny Devito</span>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+                    </div>
+                    <div class="char-info">
+                    	<p>role: protagonist</p>
+                        <p>approved: 5-25-11</p>
+                        <p>age: 49</p>
+                    </div>
+                </div>
+                <div class="char-entry group">
+                	<img src="images/character.png" width="101" height="89" alt="character">
+                    <div class="char-text">
+                    	<h2>William Richardson</h2>
+                        <span>Played by Danny Devito</span>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+                    </div>
+                    <div class="char-info">
+                    	<p>role: protagonist</p>
+                        <p>approved: 5-25-11</p>
+                        <p>age: 49</p>
+                    </div>
+                </div>
+                <div class="char-entry group">
+                	<img src="images/character.png" width="101" height="89" alt="character">
+                    <div class="char-text">
+                    	<h2>William Richardson</h2>
+                        <span>Played by Danny Devito</span>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+                    </div>
+                    <div class="char-info">
+                    	<p>role: protagonist</p>
+                        <p>approved: 5-25-11</p>
+                        <p>age: 49</p>
+                    </div>
+                </div>
+                <div class="char-entry group">
+                	<img src="images/character.png" width="101" height="89" alt="character">
+                    <div class="char-text">
+                    	<h2>William Richardson</h2>
+                        <span>Played by Danny Devito</span>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+                    </div>
+                    <div class="char-info">
+                    	<p>role: protagonist</p>
+                        <p>approved: 5-25-11</p>
+                        <p>age: 49</p>
+                    </div>
+                </div>
+                <div class="char-entry group">
+                	<img src="images/character.png" width="101" height="89" alt="character">
+                    <div class="char-text">
+                    	<h2>William Richardson</h2>
+                        <span>Played by Danny Devito</span>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+                    </div>
+                    <div class="char-info">
+                    	<p>role: protagonist</p>
+                        <p>approved: 5-25-11</p>
+                        <p>age: 49</p>
+                    </div>
+                </div>
+            </div><!--end characters-->
         </div>
     </div> <!--! end of #container -->
     

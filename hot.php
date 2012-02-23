@@ -51,10 +51,255 @@
         <?php include( 'header.php' ); ?>
         
         <div class="main">
-            
-          <a href="/film-project-home.php"><img src="images/placeholder-hot-page.png" alt=""></a>
-          
+        <section>
+        <div class="characters whats-hot">
+          <h4>hottest submissions</h4>
+          	<ul>
+              <li class="single standard-listing film">
+              	<a href="#" class="icon"></a>
+                <div class="vote-controls">
+                    <button class="vote-up"></button>
+                    <span>2,453</span>
+                    <button class="vote-down"></button>
+                </div>
+                <div class="live-info">
+                    <time datetime="2010-01-20" pubdate>20</time>
+                    <div class="meter"></div>
+                </div>
+                <h3>Upon arrival home from the spa, Janet walks into her 3 bedroom apartment and discovers Barkley </h3>
+                <p>When Janet comes home to Barkley and her apartment, she notices something is off. First of all her couch cushions are missing. Not destroyed, but completely missing - as in nowhere to be found.  She immediately panics and go straight for the Herman Miller chair in which her wedding dress laid.chair in which her wedding dress laid.chair in which her wedding dress laid.chair in which her wedding dress laid. </p>
+                <ul class="meta">
+                    <li>By: <a class="user" href="user-profile.php">MovieMaker</a></li>
+                    <li><a class="to-comments" href="scene-comments.php">26 Comments</a></li>
+                   <li><a class="read-more" id="show-hide" href="#">Read entire scene</a></li>
+                </ul>
+                <span class="from">From: <a href="#">Danny Divito Project</a></span>
+              </li>
+              <li class="single standard-listing film">
+              	<a href="#" class="icon"></a>
+                <div class="vote-controls">
+                    <button class="vote-up"></button>
+                    <span>2,453</span>
+                    <button class="vote-down"></button>
+                </div>
+                <div class="live-info">
+                    <time datetime="2010-01-20" pubdate>20</time>
+                    <div class="meter"></div>
+                </div>
+                <h3>Upon arrival home from the spa, Janet walks into her 3 bedroom apartment and discovers Barkley </h3>
+                <p>When Janet comes home to Barkley and her apartment, she notices something is off. First of all her couch cushions are missing. Not destroyed, but completely missing - as in nowhere to be found.  She immediately panics and go straight for the Herman Miller chair in which her wedding dress laid.chair in which her wedding dress laid.chair in which her wedding dress laid.chair in which her wedding dress laid. </p>
+                <ul class="meta">
+                    <li>By: <a class="user" href="user-profile.php">MovieMaker</a></li>
+                    <li><a class="to-comments" href="scene-comments.php">26 Comments</a></li>
+                   <li><a class="read-more" id="show-hide" href="#">Read entire scene</a></li>
+                </ul>
+                <span class="from">From: <a href="#">Danny Divito Project</a></span>
+              </li>
+              <li class="single standard-listing film">
+              	<a href="#" class="icon"></a>
+                <div class="vote-controls">
+                    <button class="vote-up"></button>
+                    <span>2,453</span>
+                    <button class="vote-down"></button>
+                </div>
+                <div class="live-info">
+                    <time datetime="2010-01-20" pubdate>20</time>
+                    <div class="meter"></div>
+                </div>
+                <h3>Upon arrival home from the spa, Janet walks into her 3 bedroom apartment and discovers Barkley </h3>
+                <p>When Janet comes home to Barkley and her apartment, she notices something is off. First of all her couch cushions are missing. Not destroyed, but completely missing - as in nowhere to be found.  She immediately panics and go straight for the Herman Miller chair in which her wedding dress laid.chair in which her wedding dress laid.chair in which her wedding dress laid.chair in which her wedding dress laid. </p>
+                <ul class="meta">
+                    <li>By: <a class="user" href="user-profile.php">MovieMaker</a></li>
+                    <li><a class="to-comments" href="scene-comments.php">26 Comments</a></li>
+                   <li><a class="read-more" id="show-hide" href="#">Read entire scene</a></li>
+                </ul>
+                <span class="from">From: <a href="#">Danny Divito Project</a></span>
+              </li>
+              <li class="single standard-listing film">
+              	<a href="#" class="icon"></a>
+                <div class="vote-controls">
+                    <button class="vote-up"></button>
+                    <span>2,453</span>
+                    <button class="vote-down"></button>
+                </div>
+                <div class="live-info">
+                    <time datetime="2010-01-20" pubdate>20</time>
+                    <div class="meter"></div>
+                </div>
+                <h3>Upon arrival home from the spa, Janet walks into her 3 bedroom apartment and discovers Barkley </h3>
+                <p>When Janet comes home to Barkley and her apartment, she notices something is off. First of all her couch cushions are missing. Not destroyed, but completely missing - as in nowhere to be found.  She immediately panics and go straight for the Herman Miller chair in which her wedding dress laid.chair in which her wedding dress laid.chair in which her wedding dress laid.chair in which her wedding dress laid. </p>
+                <ul class="meta">
+                    <li>By: <a class="user" href="user-profile.php">MovieMaker</a></li>
+                    <li><a class="to-comments" href="scene-comments.php">26 Comments</a></li>
+                   <li><a class="read-more" id="show-hide" href="#">Read entire scene</a></li>
+                </ul>
+                <span class="from">From: <a href="#">Danny Divito Project</a></span>
+              </li>
+              <li class="single standard-listing film">
+              	<a href="#" class="icon"></a>
+                <div class="vote-controls">
+                    <button class="vote-up"></button>
+                    <span>2,453</span>
+                    <button class="vote-down"></button>
+                </div>
+                <div class="live-info">
+                    <time datetime="2010-01-20" pubdate>20</time>
+                    <div class="meter"></div>
+                </div>
+                <h3>Upon arrival home from the spa, Janet walks into her 3 bedroom apartment and discovers Barkley </h3>
+                <p>When Janet comes home to Barkley and her apartment, she notices something is off. First of all her couch cushions are missing. Not destroyed, but completely missing - as in nowhere to be found.  She immediately panics and go straight for the Herman Miller chair in which her wedding dress laid.chair in which her wedding dress laid.chair in which her wedding dress laid.chair in which her wedding dress laid. </p>
+                <ul class="meta">
+                    <li>By: <a class="user" href="user-profile.php">MovieMaker</a></li>
+                    <li><a class="to-comments" href="scene-comments.php">26 Comments</a></li>
+                   <li><a class="read-more" id="show-hide" href="#">Read entire scene</a></li>
+                </ul>
+                <span class="from">From: <a href="#">Danny Divito Project</a></span>
+              </li>
+              <li class="single standard-listing film">
+              	<a href="#" class="icon"></a>
+                <div class="vote-controls">
+                    <button class="vote-up"></button>
+                    <span>2,453</span>
+                    <button class="vote-down"></button>
+                </div>
+                <div class="live-info">
+                    <time datetime="2010-01-20" pubdate>20</time>
+                    <div class="meter"></div>
+                </div>
+                <h3>Upon arrival home from the spa, Janet walks into her 3 bedroom apartment and discovers Barkley </h3>
+                <p>When Janet comes home to Barkley and her apartment, she notices something is off. First of all her couch cushions are missing. Not destroyed, but completely missing - as in nowhere to be found.  She immediately panics and go straight for the Herman Miller chair in which her wedding dress laid.chair in which her wedding dress laid.chair in which her wedding dress laid.chair in which her wedding dress laid. </p>
+                <ul class="meta">
+                    <li>By: <a class="user" href="user-profile.php">MovieMaker</a></li>
+                    <li><a class="to-comments" href="scene-comments.php">26 Comments</a></li>
+                   <li><a class="read-more" id="show-hide" href="#">Read entire scene</a></li>
+                </ul>
+                <span class="from">From: <a href="#">Danny Divito Project</a></span>
+              </li>
+              <li class="single standard-listing film">
+              	<a href="#" class="icon"></a>
+                <div class="vote-controls">
+                    <button class="vote-up"></button>
+                    <span>2,453</span>
+                    <button class="vote-down"></button>
+                </div>
+                <div class="live-info">
+                    <time datetime="2010-01-20" pubdate>20</time>
+                    <div class="meter"></div>
+                </div>
+                <h3>Upon arrival home from the spa, Janet walks into her 3 bedroom apartment and discovers Barkley </h3>
+                <p>When Janet comes home to Barkley and her apartment, she notices something is off. First of all her couch cushions are missing. Not destroyed, but completely missing - as in nowhere to be found.  She immediately panics and go straight for the Herman Miller chair in which her wedding dress laid.chair in which her wedding dress laid.chair in which her wedding dress laid.chair in which her wedding dress laid. </p>
+                <ul class="meta">
+                    <li>By: <a class="user" href="user-profile.php">MovieMaker</a></li>
+                    <li><a class="to-comments" href="scene-comments.php">26 Comments</a></li>
+                   <li><a class="read-more" id="show-hide" href="#">Read entire scene</a></li>
+                </ul>
+                <span class="from">From: <a href="#">Danny Divito Project</a></span>
+              </li>
+              <li class="single standard-listing film">
+              	<a href="#" class="icon"></a>
+                <div class="vote-controls">
+                    <button class="vote-up"></button>
+                    <span>2,453</span>
+                    <button class="vote-down"></button>
+                </div>
+                <div class="live-info">
+                    <time datetime="2010-01-20" pubdate>20</time>
+                    <div class="meter"></div>
+                </div>
+                <h3>Upon arrival home from the spa, Janet walks into her 3 bedroom apartment and discovers Barkley </h3>
+                <p>When Janet comes home to Barkley and her apartment, she notices something is off. First of all her couch cushions are missing. Not destroyed, but completely missing - as in nowhere to be found.  She immediately panics and go straight for the Herman Miller chair in which her wedding dress laid.chair in which her wedding dress laid.chair in which her wedding dress laid.chair in which her wedding dress laid. </p>
+                <ul class="meta">
+                    <li>By: <a class="user" href="user-profile.php">MovieMaker</a></li>
+                    <li><a class="to-comments" href="scene-comments.php">26 Comments</a></li>
+                   <li><a class="read-more" id="show-hide" href="#">Read entire scene</a></li>
+                </ul>
+                <span class="from">From: <a href="#">Danny Divito Project</a></span>
+              </li>
+              <li class="single standard-listing film">
+              	<a href="#" class="icon"></a>
+                <div class="vote-controls">
+                    <button class="vote-up"></button>
+                    <span>2,453</span>
+                    <button class="vote-down"></button>
+                </div>
+                <div class="live-info">
+                    <time datetime="2010-01-20" pubdate>20</time>
+                    <div class="meter"></div>
+                </div>
+                <h3>Upon arrival home from the spa, Janet walks into her 3 bedroom apartment and discovers Barkley </h3>
+                <p>When Janet comes home to Barkley and her apartment, she notices something is off. First of all her couch cushions are missing. Not destroyed, but completely missing - as in nowhere to be found.  She immediately panics and go straight for the Herman Miller chair in which her wedding dress laid.chair in which her wedding dress laid.chair in which her wedding dress laid.chair in which her wedding dress laid. </p>
+                <ul class="meta">
+                    <li>By: <a class="user" href="user-profile.php">MovieMaker</a></li>
+                    <li><a class="to-comments" href="scene-comments.php">26 Comments</a></li>
+                   <li><a class="read-more" id="show-hide" href="#">Read entire scene</a></li>
+                </ul>
+                <span class="from">From: <a href="#">Danny Divito Project</a></span>
+              </li>
+              <li class="single standard-listing film">
+              	<a href="#" class="icon"></a>
+                <div class="vote-controls">
+                    <button class="vote-up"></button>
+                    <span>2,453</span>
+                    <button class="vote-down"></button>
+                </div>
+                <div class="live-info">
+                    <time datetime="2010-01-20" pubdate>20</time>
+                    <div class="meter"></div>
+                </div>
+                <h3>Upon arrival home from the spa, Janet walks into her 3 bedroom apartment and discovers Barkley </h3>
+                <p>When Janet comes home to Barkley and her apartment, she notices something is off. First of all her couch cushions are missing. Not destroyed, but completely missing - as in nowhere to be found.  She immediately panics and go straight for the Herman Miller chair in which her wedding dress laid.chair in which her wedding dress laid.chair in which her wedding dress laid.chair in which her wedding dress laid. </p>
+                <ul class="meta">
+                    <li>By: <a class="user" href="user-profile.php">MovieMaker</a></li>
+                    <li><a class="to-comments" href="scene-comments.php">26 Comments</a></li>
+                   <li><a class="read-more" id="show-hide" href="#">Read entire scene</a></li>
+                </ul>
+                <span class="from">From: <a href="#">Danny Divito Project</a></span>
+              </li>
+              <li class="single standard-listing film">
+              	<a href="#" class="icon"></a>
+                <div class="vote-controls">
+                    <button class="vote-up"></button>
+                    <span>2,453</span>
+                    <button class="vote-down"></button>
+                </div>
+                <div class="live-info">
+                    <time datetime="2010-01-20" pubdate>20</time>
+                    <div class="meter"></div>
+                </div>
+                <h3>Upon arrival home from the spa, Janet walks into her 3 bedroom apartment and discovers Barkley </h3>
+                <p>When Janet comes home to Barkley and her apartment, she notices something is off. First of all her couch cushions are missing. Not destroyed, but completely missing - as in nowhere to be found.  She immediately panics and go straight for the Herman Miller chair in which her wedding dress laid.chair in which her wedding dress laid.chair in which her wedding dress laid.chair in which her wedding dress laid. </p>
+                <ul class="meta">
+                    <li>By: <a class="user" href="user-profile.php">MovieMaker</a></li>
+                    <li><a class="to-comments" href="scene-comments.php">26 Comments</a></li>
+                   <li><a class="read-more" id="show-hide" href="#">Read entire scene</a></li>
+                </ul>
+                <span class="from">From: <a href="#">Danny Divito Project</a></span>
+              </li>
+              <li class="single standard-listing film">
+              	<a href="#" class="icon"></a>
+                <div class="vote-controls">
+                    <button class="vote-up"></button>
+                    <span>2,453</span>
+                    <button class="vote-down"></button>
+                </div>
+                <div class="live-info">
+                    <time datetime="2010-01-20" pubdate>20</time>
+                    <div class="meter"></div>
+                </div>
+                <h3>Upon arrival home from the spa, Janet walks into her 3 bedroom apartment and discovers Barkley </h3>
+                <p>When Janet comes home to Barkley and her apartment, she notices something is off. First of all her couch cushions are missing. Not destroyed, but completely missing - as in nowhere to be found.  She immediately panics and go straight for the Herman Miller chair in which her wedding dress laid.chair in which her wedding dress laid.chair in which her wedding dress laid.chair in which her wedding dress laid. </p>
+                <ul class="meta">
+                    <li>By: <a class="user" href="user-profile.php">MovieMaker</a></li>
+                    <li><a class="to-comments" href="scene-comments.php">26 Comments</a></li>
+                   <li><a class="read-more" id="show-hide" href="#">Read entire scene</a></li>
+                </ul>
+                <span class="from">From: <a href="#">Danny Divito Project</a></span>
+              </li>
+              </ul>
+          </div>
+          </section>
         </div>
+        
     </div> <!--! end of #container -->
     
     <!-- Inlcude Footer here... -->        
