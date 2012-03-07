@@ -2070,3 +2070,110 @@ a.more-details{
 .main section .whats-hot ul li.single.film span.from a{
 	color:#dbba26;
 }
+
+.approved-script{
+	background:url(../images/approved-script-bg.jpg) no-repeat;
+	height:1520px;
+	width:680px;
+	color:#1a1a1a;
+	padding-top:29px;
+	margin-top:30px;
+	float:left;
+}
+.approved-script h1{
+	font-family: "league-gothic-1","league-gothic-2";
+	font-weight:bold;
+	font-size:36px;
+	text-align:center;
+	padding-top:40px;
+	background:url(../images/crown-big.png) no-repeat center top;
+}
+.approved-script h5{
+	text-align:center;
+	font-size:14px;
+	font-family: "museo-sans-1","museo-sans-2";
+	font-weight:bold;
+	margin-top:25px;
+}
+.approved-script p{
+	font-size:15px;
+	margin:0 50px;
+	padding:15px 0 0 0;
+	font-family: "museo-sans-1","museo-sans-2";
+	line-height:1.4;
+}
+.approved-script p.first{
+	border-top:1px solid #191919 !important;
+	margin-top:35px;
+}
+.scene-navigation{
+	margin:0 50px;
+	margin-top:45px;
+}
+.scene-navigation a{
+	position:relative;
+	padding-left:30px;
+	padding-right:30px;
+	color:#000000;
+	font-family: "museo-sans-1","museo-sans-2";
+	font-size:14px;
+	text-decoration:none !important;
+	padding-top:5px;
+	font-weight:bold;
+}
+.scene-navigation a:before{
+	display:block;
+	background:url(../images/arrows-horizontal.png) no-repeat;
+	height:26px;
+	width:27px;
+	content:".";
+	text-indent:-9999px;
+	position:absolute;
+}
+.scene-navigation a.prev{
+	float:left;
+}
+.scene-navigation a.next{
+	float:right;
+}
+.scene-navigation a.prev:before{
+	background-position:0 -55px;
+	top:0;
+	left:0;
+}
+.scene-navigation a.next:before{
+	background-position:-26px -57px;
+	top:0;
+	right:0;
+}
+.scenes{
+	text-transform:none;
+	position:relative;
+}
+.scenes h4{
+	font-size:17px;
+	margin-top:15px;
+	display:inline-block;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+.scenes p{
+	font-weight:bold !important;
+	color:#8b817b !important;
+	font-size:11px !important;
+	width:150px !important;
+	margin-top:0 !important;
+}
+.scenes a.read{
+	background:url(../images/read.png) no-repeat;
+	height:36px;
+	width:36px;
+	display:block;
+	position:absolute;
+	bottom:4px;
+	right:0;
+}
+.scenes h4.small-crown{
+	background:url(../images/crown.png) no-repeat center right;
+	padding-right:28px;
+}
