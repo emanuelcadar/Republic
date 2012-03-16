@@ -2093,7 +2093,11 @@ a.more-details{
 	font-size:14px;
 	font-family: "museo-sans-1","museo-sans-2";
 	font-weight:bold;
+	margin:0 50px;
 	margin-top:25px;
+	padding-bottom:35px;
+	border-bottom:1px solid #191919 !important;
+
 }
 .approved-script p{
 	font-size:15px;
@@ -2103,8 +2107,7 @@ a.more-details{
 	line-height:1.4;
 }
 .approved-script p.first{
-	border-top:1px solid #191919 !important;
-	margin-top:35px;
+	
 }
 .scene-navigation{
 	margin:0 50px;
@@ -2261,4 +2264,184 @@ a.more-details{
 	color:#656466;
 	padding-top:3px;
 	margin-top:10px;
+}
+.proj-details{
+	float:left;
+	margin-top:25px;
+}
+.details-container{
+	background:url(../images/project-details.jpg) no-repeat;
+	height:519px;
+	width:646px;
+	position:relative;
+	font-family: "museo-sans-1","museo-sans-2";
+	padding:20px;
+}
+.approved-img{
+	background:url(../images/approved.png) no-repeat;
+	width:229px;
+	height:80px;
+	position:absolute;
+	right:15px;
+	top:15px;
+	
+}
+.details-container h4{
+	font-size:15px;
+	margin-bottom:35px;
+}
+.premise-container h3{
+	font-size:26px;
+	font-family: "league-gothic-1","league-gothic-2";
+	letter-spacing:1px;
+}
+.premise-container h3.half-width{
+	border-right:1px solid #1a1a1a;
+	float:left;
+	width:368px;
+}
+.premise-container h3.other-half{
+	float:left;
+	margin-left:15px;
+}
+.premise-container h3 span{
+	color:#6d6e71;
+}
+.premise-entry{
+	border-top:1px solid #1a1a1a;
+	padding:15px 0;
+}
+.premise-entry p{
+	font-size:19px;
+	color:#6d6e71;
+	padding-top:15px;
+}
+.film-rating h5{
+	float:left;
+	font-family: "league-gothic-1","league-gothic-2";
+	letter-spacing:1px;
+	margin-top:15px;
+}
+.film-rating img{
+	float:left;
+	margin-left:10px;
+	margin-top:12px;
+}
+.main-characters h4{
+	padding-bottom:0 !important;
+	margin-bottom:0 !important;
+	text-transform:none;
+}
+.navigation a{
+	display:inline-block;
+	color:#dbb926;
+	text-decoration:none;
+	height:24px;
+	width:24px;
+	text-align:center;
+	padding-top:1px;
+}
+.navigation a.active{
+	color:#FFF;
+	background:url(../images/nav-hover.png) no-repeat;
+}
+.navigation p{
+	font-weight:bold;
+}
+.full-details{
+	float:none;
+	width:970px;
+}
+.full-details.details-container{
+	background:url(../images/project-premisebg.jpg) no-repeat;
+	width:930px;
+	height:529px;
+	margin-top:25px;
+}
+.full-half{
+	float:left;
+	width:620px;
+	border-bottom:1px solid #1a1a1a;
+	height:430px;
+}
+.side-premise{
+	border-left:1px solid #1a1a1a;
+	float:left;
+	width:265px;
+	padding-left:25px;
+	height:399px;
+	border-bottom:1px solid #1a1a1a;
+}
+.side-premise p{
+	font-size:15px;
+}
+.last-premise{
+	border-bottom:1px solid #1a1a1a;
+}
+.full-details.details-container .approved-img{
+	right:310px;
+}
+.trophy-case{
+	width:624px;
+	float:left;
+	padding-right:65px;
+}
+.trophy-entry{
+	background:url(../images/user-profile_11.png) no-repeat bottom;
+	width:624px;
+	padding-bottom:130px;
+	padding-left:55px;
+}
+.trophy-entry a{
+	margin-left:20px;
+}
+.trophy-entry a{
+	position:relative;
+	text-decoration:none !important;
+}
+.trophy-info{
+	position:absolute;
+	background:url(../images/user-profile_03.png) no-repeat;
+	height:59px;
+	width:169px;
+	bottom:-89px;
+	left:-25px;
+	font-size:16px;
+	color:#f1f2f2;
+	display:block;
+	font-family: "museo-sans-1","museo-sans-2";
+	text-align:center;
+	padding-top:30px;
+	display:none;
+}
+.trophy-info strong{
+	color:#ede03e;
+	display:block;
+	font-size:10px;
+}
+.trophy-entry a.visible .trophy-info{
+	display:block !important;
+}
+.empty-slot{
+	margin-top:-80px;
+}
+.trophy-case h4{
+	margin-left:45px;
+	font-family: "museo-sans-1","museo-sans-2";
+	margin-bottom:15px;
+	font-size:15px;
+	margin-top:35px;
+}
+.trophy-case h4 span{
+	color:#a7a9ac;
+}
+.trophy-activity a{
+	color:#231f20 !important;
+	margin:0 !important;
+}
+.trophy-activity p{
+	color:#ddc31e !important;
+}
+.crown-trophy{
+	background:url(../images/small-crown.png) no-repeat center right;
 }

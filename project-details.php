@@ -52,7 +52,151 @@
         <?php include( 'header-film-project.php' ); ?>
         
         <div class="main">
-          <img src="images/project-details.gif" />
+          <div class="proj-details">
+          	<div class="details-container">
+            	<div class="approved-img"></div>
+                <h4>PROJECT PREMISE</h4>
+                <div class="premise-container">
+                	<div class="premise-entry">
+                    	<h3>LOCATION:<span>Edinbourough, Scotland</span></h3>
+                    </div>
+                    <div class="premise-entry group">
+                    	<h3 class="half-width">TIME PERIOD:<span>1840’S</span></h3>
+                        <h3 class="other-half">GENRE:<span>Comedy</span></h3>
+                    </div>
+                    <div class="premise-entry group">
+                    	<h3 class="half-width">START DATE:<span>8/15/2011</span></h3>
+                    </div>
+                    <div class="premise-entry">
+                    	<h3>PLOTLINE:</h3>
+                        <p>The movie takes place in Scotland in 1946. Lorem ipsum dolor sit amet duis requiem volupat et al volupat etal suis volupat. duis et al volupat Lorem ipsum dolor sit amet duis requiem lorem ipsum dolor sit volupat et al duis et al volupat. Lorem ipsum dolor sit amet duis requiem volupat et al duis et al volupat Lorem ipsum dolor sit amet duis requiem volupat et al duis et al volupat. Lorem ipsum dolor sit amet duis requiem</p>
+                <div class="film-rating">
+                	<h5>SUGGESTED<br>FILM RATING:</h5>
+                    <img src="images/restricted.jpg" height="55" width="208" alt="restricted">
+                </div>
+                    </div>
+                </div>
+            </div>
+          <div class="approved-script">
+          		<h1>APPROVED SCRIPT</h1>
+                <h5>AS OF  05 - 12 - 11</h5>
+                <div class="navigation">
+                	<p>SCENE:
+                    	<a href="#">1</a>
+                        <a href="#">2</a>
+                        <a href="#">3</a>
+                        <a href="#">4</a>
+                        <a href="#">5</a>
+                        <a href="#">6</a>
+                        <a href="#">7</a>
+                        <a href="#">8</a>
+                        <a href="#">9</a>
+                        <a href="#">10</a>
+                        <a href="#" class="active">11</a>
+                    </p>
+                </div>
+                <p class="first">The movie takes place in Scotland in 1946. Lorem ipsum dolor sit amet duis requiem volupat et al volupat etal suis volupat. duis et al volupat Lorem ipsum dolor sit amet duis requiem lorem ipsum dolor sit volupat et al duis et al volupat. Lorem ipsum dolor sit amet duis requiem volupat et al duis et al volupat Lorem ipsum dolor sit amet duis requiem volupat et al duis et al volupat. Lorem ipsum dolor sit amet duis requiem volupat et al volupat etal suis volupat. duis et al volupat Lorem ipsum dolor sit amet duis requiem volupat et al duis et al volupat.Lorem ipsum dolor sit amet duis requiem volupat et al volupat etal suis volupat. duis et al volupat Lorem ipsum dolor sit amet duis requiem volupat et al duis et al volupat.</p>
+                <p>The movie takes place in Scotland in 1946. Lorem ipsum dolor sit amet duis requiem volupat et al volupat etal suis volupat. duis et al volupat Lorem ipsum dolor sit amet duis requiem lorem ipsum dolor sit volupat et al duis et al volupat. Lorem ipsum dolor sit amet duis requiem volupat et al duis et al volupat Lorem ipsum dolor sit amet duis requiem volupat et al duis et al volupat. Lorem ipsum dolor sit amet duis requiem volupat et al volupat etal suis volupat. duis et al volupat Lorem ipsum dolor sit amet duis requiem volupat et al duis et al volupat.Lorem ipsum dolor sit amet duis requiem volupat et al volupat etal suis volupat. duis et al volupat Lorem ipsum dolor sit amet duis requiem volupat et al duis et al volupat. The movie takes place in Scotland in 1946. Lorem ipsum dolor sit amet duis requiem volupat et al volupat etal suis volupat. duis et al volupat Lorem ipsum dolor sit amet duis requiem lorem ipsum dolor sit volupat et al duis et al volupat. Lorem ipsum dolor sit amet duis requiem volupat et al duis et al volupat Lorem ipsum dolor sit amet duis requiem volupat et al duis et al volupat. Lorem ipsum dolor sit amet duis requiem volupat et al volupat etal suis volupat. duis et al volupat Lorem ipsum dolor sit amet duis requiem volupat et al duis et al volupat.Lorem ipsum dolor sit amet duis requiem volupat et al volupat etal suis volupat. duis et al volupat Lorem ipsum dolor sit amet duis requiem volupat et al duis et al volupat.</p>
+                <p>The movie takes place in Scotland in 1946. Lorem ipsum dolor sit amet duis requiem volupat et al volupat etal suis volupat. duis et al volupat Lorem ipsum dolor sit amet duis requiem lorem ipsum dolor sit volupat et al duis et al volupat. Lorem ipsum dolor sit amet duis requiem volupat et al duis et al volupat Lorem ipsum dolor sit amet duis requiem volupat et al duis et al volupat. Lorem ipsum dolor sit amet duis requiem volupat et al volupat etal suis volupat. duis et al volupat Lorem ipsum dolor sit amet duis requiem volupat et al duis et al volupat.Lorem ipsum dolor sit amet duis requiem volupat et al volupat etal suis volupat. duis et al volupat Lorem ipsum dolor sit amet duis requiem volupat et al duis et al volupat. The movie takes place in Scotland in 1946. Lorem ipsum dolor sit amet duis requiem volupat et al volupat etal suis volupat. duis et al volupat Lorem ipsum dolor sit amet duis requiem lorem ipsum dolor sit volupat et al duis et al volupat. Lorem ipsum dolor sit amet duis requiem volupat et al duis et al volupat Lorem ipsum dolor sit amet duis requiem volupat et al duis et al volupat. Lorem ipsum dolor sit amet duis requiem volupat et al volupat etal suis volupat. duis et al volupat Lorem ipsum dolor sit amet duis requiem volupat et al duis et al volupat.Lorem ipsum dolor sit amet duis requiem volupat et al volupat etal suis volupat. duis et al volupat Lorem ipsum dolor sit amet duis requiem volupat et al duis et al volupat.</p>
+                <p>Lorem ipsum dolor sit amet duis requiem volupat et al volupat etal suis volupat. duis et al volupat Lorem ipsum dolor sit amet duis requiem volupat et al duis et al volupat.Lorem ipsum dolor sit amet duis requiem volupat et al volupat etal suis volupat. duis et al volupat Lorem ipsum dolor sit amet duis requiem volupat et al duis et al volupat.Lorem ipsum dolor sit amet duis requiem volupat et al volupat etal suis volupat. duis et al volupat Lorem ipsum dolor sit amet duis requiem volupat et al duis et al volupat.Lorem ipsum dolor sit amet duis requiem volupat et al volupat etal suis volupat. duis et al volupat Lorem ipsum dolor sit amet duis requiem volupat et al duis et al volupat.</p>
+                <div class="navigation">
+                	<p>SCENE:
+                    	<a href="#">1</a>
+                        <a href="#">2</a>
+                        <a href="#">3</a>
+                        <a href="#">4</a>
+                        <a href="#">5</a>
+                        <a href="#">6</a>
+                        <a href="#">7</a>
+                        <a href="#">8</a>
+                        <a href="#">9</a>
+                        <a href="#">10</a>
+                        <a href="#" class="active">11</a>
+                    </p>
+                </div>
+          </div>
+          	
+          </div>
+          <aside class="latest-activity film-activity main-characters">
+            <h2>MAIN CHARACTERS</h2>
+            <div class="activity-entry">
+            	<div class="scenes">
+                	<h4 class="small-crown">William Defoe</h4>
+                    <p>Lorem ipsum dolor sit ame </p>
+                    <a href="#" class="read"></a>
+                </div>
+            </div>
+            <div class="activity-entry">
+            	<div class="scenes">
+                	<h4 class="small-crown">Barkley the Dog</h4>
+                	<p>Lorem ipsum dolor sit ame </p>
+                    <a href="#" class="read"></a>
+                </div>
+            </div>
+            <div class="activity-entry">
+            	<div class="scenes">
+                	<h4 class="small-crown">Janet Smith</h4>
+                    <p>Lorem ipsum dolor sit amet  </p>
+                    <a href="#" class="read"></a>
+                </div>
+            </div>
+            <div class="activity-entry">
+            	<div class="scenes">
+                	<h4>Cristopher Cristopherson</h4>
+                    <p>Lorem ipsum dolor sit amet</p>
+                    <a href="#" class="read"></a>
+                </div>
+            </div>
+            <div class="activity-entry">
+            	<div class="scenes">
+                	<h4>Roy G. Biv</h4>
+                    <p>Lorem ipsum </p>
+                    <a href="#" class="read"></a>
+                </div>
+            </div>
+            <div class="activity-entry">
+            	<div class="scenes">
+                	<h4>Roy G. Biv</h4>
+                    <p>Lorem ipsum </p>
+                    <a href="#" class="read"></a>
+                </div>
+            </div>
+            <div class="activity-entry">
+            	<div class="scenes">
+                	<h4>Roy G. Biv</h4>
+                    <p>Lorem ipsum </p>
+                    <a href="#" class="read"></a>
+                </div>
+            </div>
+            <div class="activity-entry">
+            	<div class="scenes">
+                	<h4>Roy G. Biv</h4>
+                    <p>Lorem ipsum </p>
+                    <a href="#" class="read"></a>
+                </div>
+            </div>
+            <div class="activity-entry">
+            	<div class="scenes">
+                	<h4>Roy G. Biv</h4>
+                    <p>Lorem ipsum </p>
+                    <a href="#" class="read"></a>
+                </div>
+            </div>
+            <div class="activity-entry">
+            	<div class="scenes">
+                	<h4>Roy G. Biv</h4>
+                    <p>Lorem ipsum </p>
+                    <a href="#" class="read"></a>
+                </div>
+            </div>
+            <div class="activity-entry">
+            	<div class="scenes">
+                	<h4>Roy G. Biv</h4>
+                    <p>Lorem ipsum </p>
+                    <a href="#" class="read"></a>
+                </div>
+            </div>
+          </aside>
         </div>
     </div> <!--! end of #container -->
     

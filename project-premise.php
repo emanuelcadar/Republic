@@ -52,7 +52,32 @@
         <?php include( 'header-film-project.php' ); ?>
         
         <div class="main">
-          <img src="images/project-premise.gif" />
+        <div class="details-container full-details">
+           <div class="approved-img"></div>
+              <h4>PROJECT PREMISE</h4>
+         		<div class="premise-container">
+                	<div class="full-half">
+                        <div class="premise-entry">
+                            <h3>LOCATION:<span>Edinbourough, Scotland</span></h3>
+                        </div>
+                        <div class="premise-entry group">
+                            <h3 class="half-width">TIME PERIOD:<span>1840’S</span></h3>
+                            <h3 class="other-half">GENRE:<span>Comedy</span></h3>
+                        </div>
+                        <div class="premise-entry last-premise group">
+                            <h3 class="half-width">START DATE:<span>8/15/2011</span></h3>
+                        </div>
+                        <div class="film-rating">
+                            <h5>SUGGESTED<br>FILM RATING:</h5>
+                            <img src="images/restricted.jpg" height="55" width="208" alt="restricted">
+                        </div>
+                    </div>
+                    <div class="premise-entry side-premise">
+                    	<h3>PLOTLINE:</h3>
+                        <p>The movie takes place in Scotland in 1946. Lorem ipsum dolor sit amet duis requiem volupat et al volupat etal suis volupat. duis et al volupat Lorem ipsum dolor sit amet duis requiem lorem ipsum dolor sit volupat et al duis et al volupat. Lorem ipsum dolor sit amet duis requiem volupat et al duis et al volupat Lorem ipsum dolor sit amet duis requiem volupat et al duis et al volupat. Lorem ipsum dolor sit amet duis requiem</p>
+                </div>
+                </div>
+                </div>
         </div>
     </div> <!--! end of #container -->
     

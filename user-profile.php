@@ -54,7 +54,56 @@
         </header>
         
         <div class="main">
-          <img src="images/user-profile.jpg" />
+          <div class="user-profile">
+          		<div class="trophy-case">
+                	<h4>TROPHY CASE: <span>4 ITEMS</span></h4>
+                    <div class="trophy-entry">
+                    	<a href="#"><img src="images/big-trophy.png" width="120" height="207" alt="empty"><span class="trophy-info">12 MONTH MEMBER <strong>AWARDED 5-16-11</strong></span></a>
+                        <a href="#"><img src="images/medium-trophy.png" width="108" height="147" alt="empty"><span class="trophy-info">12 MONTH MEMBER <strong>AWARDED 5-16-11</strong></span></a>
+                        <a href="#"><img src="images/grey-trophy.png" width="122" height="174" alt="empty"><span class="trophy-info">12 MONTH MEMBER <strong>AWARDED 5-16-11</strong></span></a>
+                        <a href="#"><img src="images/crown-trophy.png" width="122" height="100" alt="empty"><span class="trophy-info">12 MONTH MEMBER <strong>AWARDED 5-16-11</strong></span></a>
+                    </div>
+                    <div class="trophy-entry empty-slot">
+                    	<a href="#"><img src="images/empty-slot.png" width="113" height="126" alt="empty"></a>
+                        <a href="#"><img src="images/empty-slot.png" width="113" height="126" alt="empty"></a>
+                        <a href="#"><img src="images/empty-slot.png" width="113" height="126" alt="empty"></a>
+                        <a href="#"><img src="images/empty-slot.png" width="113" height="126" alt="empty"></a>
+                    </div>
+                    <div class="trophy-entry empty-slot">
+                    	<a href="#"><img src="images/empty-slot.png" width="113" height="126" alt="empty"></a>
+                        <a href="#"><img src="images/empty-slot.png" width="113" height="126" alt="empty"></a>
+                        <a href="#"><img src="images/empty-slot.png" width="113" height="126" alt="empty"></a>
+                        <a href="#"><img src="images/empty-slot.png" width="113" height="126" alt="empty"></a>
+                    </div>
+                </div>
+                <aside class="latest-activity film-activity trophy-activity">
+                    <h2>Latest Activity</h2>
+                    <div class="activity-entry">
+                        <p>SCENE SUGGESTION <span>FOR</span> <br><a href="#">MOVIE TITLE HERE</a></p>
+                    </div>
+                    <div class="activity-entry">
+                        <p>SCENE SUGGESTION <span>FOR</span> <br><a href="#">MOVIE TITLE HERE</a></p>
+                    </div>
+                    <div class="activity-entry crown-trophy">
+                        <p>SCENE SUGGESTION <span>FOR</span> <br><a href="#">MOVIE TITLE HERE</a></p>
+                    </div>
+                    <div class="activity-entry">
+                        <p>SCENE SUGGESTION <span>FOR</span> <br><a href="#">MOVIE TITLE HERE</a></p>
+                    </div>
+                    <div class="activity-entry">
+                        <p>SCENE SUGGESTION <span>FOR</span> <br><a href="#">MOVIE TITLE HERE</a></p>
+                    </div>
+                    <div class="activity-entry">
+                        <p>SCENE SUGGESTION <span>FOR</span> <br><a href="#">MOVIE TITLE HERE</a></p>
+                    </div>
+                    <div class="activity-entry">
+                        <p>SCENE SUGGESTION <span>FOR</span> <br><a href="#">MOVIE TITLE HERE</a></p>
+                    </div>
+                    <div class="activity-entry">
+                        <p>SCENE SUGGESTION <span>FOR</span> <br><a href="#">MOVIE TITLE HERE</a></p>
+                    </div>
+                  </aside>
+          </div>
         </div>
     </div> <!--! end of #container -->
     

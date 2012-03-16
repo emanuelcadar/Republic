@@ -1,5 +1,8 @@
 $(document).ready(function() {
     
+	$('.trophy-entry a').hover(function() {
+	 	$(this).toggleClass('visible');
+	});
     var submittedScene;
     var scrollLogo = false;
     
