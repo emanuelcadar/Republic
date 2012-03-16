@@ -2445,3 +2445,108 @@ a.more-details{
 .crown-trophy{
 	background:url(../images/small-crown.png) no-repeat center right;
 }
+
+.user-left{
+	width:670px;
+	border-right:1px solid #939598;
+	margin-left:40px;
+	float:left;
+	margin-top:-20px;
+}
+.user-left a.avatar{
+	float:left;
+	border:6px solid #ffffff;
+	display:block;
+	margin-top:6px;
+	margin-bottom:25px;
+}
+.user-left a.avatar img{
+	float:left;
+}
+.user-info{
+	float:left;
+	margin-left:20px;
+	font-family: "museo-sans-1","museo-sans-2";
+}
+.user-info h2{
+	font-size:38px;
+	font-family: "league-gothic-1","league-gothic-2";
+	font-weight:300;
+	color:#000000;
+	letter-spacing:2px;
+}
+.user-info p{
+	color:#231f20;
+	font-size:14px;
+	font-weight:bold;
+}
+.user-info p span{
+	color:#808285;
+}
+a.edit-account{
+	background:#a5a8a9;
+	padding:5px 18px 3px 8px;
+	font-size:8px;
+	color:#FFF;
+	text-decoration:none !important;
+	margin-top:3px;
+}
+.user-all{
+	border-top:1px solid #939598;
+	width:670px;
+	font-family: "museo-sans-1","museo-sans-2";
+	font-weight:bold;
+	padding:8px 0;
+}
+.clr{
+	height:0;
+	clear:both;
+}
+.user-all span{
+	color:#808285;
+	font-size:15px;
+	background:url(../images/user-sprite.png) no-repeat;
+	padding-left:25px;
+	margin-right:45px;
+}
+.user-all span a{
+	font-family: "league-gothic-1","league-gothic-2";
+	color:#231f20;
+	font-size:30px;
+	vertical-align:middle;
+	display:inline-block;
+	text-decoration:none;
+	font-weight:100;
+	margin-left:5px;
+}
+.user-all span.approvals{
+	background-position:0 1px;
+}
+.user-all span.vetos{
+	background-position:0 -16px;
+}
+.user-all span.scene-sugg{
+	background-position:0 -102px;
+}
+.user-all span.cmts{
+	background-position:0 -79px;
+}
+.user-all span.flw{
+	background-position:0 -35px;
+}
+.user-all span.flwd{
+	background-position:0 -57px;
+}
+.user-right{
+	text-align:center;
+}
+.user-right h4{
+	margin-top:20px;
+	color:#808285;
+	font-size:14px;
+	font-family: "museo-sans-1","museo-sans-2";
+	margin-bottom:15px;
+}
+.user-right h4 span{
+	color:#000000;
+}

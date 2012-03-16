@@ -50,7 +50,31 @@
         <!-- Inlcude Header here... -->
             
         <?php include( 'header-simple.php' ); ?>
-            <div class="user-hero"></div>  
+            <div class="user-hero">
+            	<div class="user-left">
+                	<a href="#" class="avatar"><img src="images/user.png" width="74" height="74" alt="user"></a>
+                    <div class="user-info group">
+                    	<h2>moviemaker</h2>
+                        <p>25,456 <span>POINTS</span></p>
+                        <a href="#" class="edit-account">EDIT ACCOUNT</a>
+                    </div>
+                    <div class="clr"></div>
+                    <div class="user-all">
+                        <span class="approvals">APPROVALS <a href="#">56</a></span>	
+                        <span class="vetos">VETOS <a href="#">56</a></span>	
+                        <span class="scene-sugg">SCENE SUGGESTIONS <a href="#">56</a></span>	
+                    </div>
+                    <div class="user-all">
+                        <span class="cmts">COMMENTS <a href="#">56</a></span>	
+                        <span class="flw">FOLLOWING <a href="#">56</a></span>	
+                        <span class="flwd">FOLLOWED <a href="#">56</a></span>	
+                    </div>
+                </div>
+                <div class="user-right">
+                	<h4>RANK: <span>SCREENWRITER</span></h4>
+                    <img src="images/user-profile_06.png" width="115" height="131" alt="user">
+                </div>
+            </div>  
         </header>
         
         <div class="main">
