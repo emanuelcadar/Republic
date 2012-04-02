@@ -964,7 +964,7 @@ header .hero.film {
       padding: 25px 0 10px 0;
         
     }
-      .main section ul li.standard-listing {
+      .main section ul li.standard-listing, .scenes-list {
         background: url(../images/list-divider.gif) top left no-repeat;
       }
       
@@ -2468,19 +2468,19 @@ a.more-details{
 	margin-left:20px;
 	font-family: "museo-sans-1","museo-sans-2";
 }
-.user-info h2{
+.user-info h2, .flw-user h5{
 	font-size:38px;
 	font-family: "league-gothic-1","league-gothic-2";
 	font-weight:300;
 	color:#000000;
 	letter-spacing:2px;
 }
-.user-info p{
+.user-info p, .flw-user-info strong{
 	color:#231f20;
 	font-size:14px;
 	font-weight:bold;
 }
-.user-info p span{
+.user-info p span, .flw-user-info strong span{
 	color:#808285;
 }
 a.edit-account{
@@ -2496,20 +2496,29 @@ a.edit-account{
 	width:670px;
 	font-family: "museo-sans-1","museo-sans-2";
 	font-weight:bold;
-	padding:8px 0;
 }
 .clr{
 	height:0;
 	clear:both;
+}
+.user-all a{
+	text-decoration:none;
+	display:inline-block;
+	margin-right:35px;
+	padding:8px 0;
+}
+.user-all a.active{
+	background:#c9c9ca;
 }
 .user-all span{
 	color:#808285;
 	font-size:15px;
 	background:url(../images/user-sprite.png) no-repeat;
 	padding-left:25px;
-	margin-right:45px;
+	margin-left:10px;
+	padding-right:10px;
 }
-.user-all span a{
+.user-all span em{
 	font-family: "league-gothic-1","league-gothic-2";
 	color:#231f20;
 	font-size:30px;
@@ -2518,6 +2527,7 @@ a.edit-account{
 	text-decoration:none;
 	font-weight:100;
 	margin-left:5px;
+	font-style:normal;
 }
 .user-all span.approvals{
 	background-position:0 1px;
@@ -2549,4 +2559,196 @@ a.edit-account{
 }
 .user-right h4 span{
 	color:#000000;
+}
+.user-trophy{
+	float:left;
+	margin-left:40px;
+	margin-top:40px;
+}
+.approvals-list{
+	width:715px;
+	border-right:1px solid #939598;
+	margin-left:7px;
+	float:left;
+}
+.main section .approvals-list{
+	width:710px;
+	margin-left:0;
+	padding-left:0;
+}
+.main .approvals-list aside.latest-activity{
+	float:right !important;
+	width:270px !important;
+}
+.main .approvals-list aside.latest-activity .activity-entry{
+	width:250px !important;
+}
+.approvals-list h3{
+	position:relative;
+	padding-left:30px;
+}
+.approvals-list h3:before{
+	background:url(../images/arrows-horizontal.gif) no-repeat;
+	content:".";
+	background-position:-56px 0;
+	height:26px;
+	width:26px;
+	display:block;
+	position:absolute;
+	left:0;
+	text-indent:-9999px;
+}
+.approvals-list h3.vts:before{
+	background-position:-28px -28px;
+}
+.main section .approvals-list h3{
+	padding-left:0 !important;
+}
+.main section .approvals-list h3:before{
+	background:none !important;
+}
+.scenes-list{
+	margin-top:15px;
+	padding:25px 15px;
+	padding-bottom:0;
+	font-family: "museo-sans-1","museo-sans-2";
+}
+.scenes-list span{
+	font-weight:bold;
+	font-size:11px;
+}
+.scenes-list p{
+	font-size:17px;
+	padding-top:10px;
+}
+.scenes-list a{
+	color:#ddc31e;
+	text-decoration:none;
+	padding-right:25px;
+}
+.scenes-list a:hover{
+	text-decoration:underline;
+}
+.no-top-margin{
+	margin-top:0 !important;
+}
+.scene-no{
+	display:block;
+	text-align:center;
+	background:url(../images/scene_no.png) no-repeat;
+	height:74px;
+	width:74px;
+	font-size:40px;
+	padding-top:25px;
+	margin:0 auto;
+	margin-top:10px;
+}
+.about-scenes{
+	width:100px !important;
+	text-align:center;
+	line-height:1.2;
+}
+.about-scenes a{
+	font-size:11px;
+	color:#d9c400;
+	text-decoration:none;
+}
+.about-scenes a:hover{
+	text-decoration:underline;
+}
+.margin-left{
+	margin-left:10px;
+}
+.main section .approvals-list  ul li.comment-listing {
+      background: url(../images/list-divider-blue.gif) top left no-repeat;
+}
+.main section .approvals-list  ul li.comment-listing span{
+	font-size:15px;
+}
+.main section .approvals-list  ul li.comment-listing span a{
+	text-decoration:none;
+}
+.main section .approvals-list  ul li.comment-listing a.replies{
+	background:url(../images/comments-arrow.png) no-repeat center right;
+	padding-right:15px;
+	font-size:12px;
+	text-transform:uppercase;
+	text-decoration:none;
+	color:#b3b3b3;
+}
+.main section .approvals-list  ul li.comment-listing a.replies:hover{
+	color:#666;
+}
+a.unfollow{
+	background:url(../images/follow-sprite.png) no-repeat;
+	background-position:0 -25px;
+	display:block;
+	height:20px;
+	width:57px;
+	padding-left:45px;
+	font-size:11px;
+	color:#231f20;
+	text-decoration:none;
+	padding-top:4px;
+	margin-top:5px;
+}
+a.follow{
+	background:url(../images/follow-sprite.png) no-repeat;
+	display:block;
+	height:20px;
+	width:57px;
+	padding-left:55px;
+	font-size:11px;
+	color:#231f20;
+	text-decoration:none;
+	padding-top:4px;
+	margin-top:5px;
+}
+a.add{
+	background:url(../images/follow-sprite.png) no-repeat;
+	background-position:0 -52px;
+	display:block;
+	height:20px;
+	width:25px;
+	font-size:11px;
+	color:#231f20;
+	text-decoration:none;
+	padding-top:4px;
+	margin-top:5px;
+}
+a.ok{
+	width:25px;
+	padding-left:0;
+}
+.flw-status{
+	border-left:1px solid #808285;
+	float:left;
+	width:155px;
+	padding-left:20px;
+	margin-left:20px;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+.flw-status span{
+	display:block;
+	color:#808285;
+	font-size:11px;
+}
+.flw-status span a{
+	font-family: "league-gothic-1","league-gothic-2";
+	font-size:20px;
+	color:#231f20;
+	font-weight:100;
+	text-decoration:none;
+	padding-right:6px;
+}
+.flw-user-info{
+	float:left;
+	margin-left:20px;
+}
+.flw-user a.avatar{
+	float:left;
+}
+.flw-user h5{
+	margin-top:-10px;
 }
