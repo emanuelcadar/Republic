@@ -3012,3 +3012,102 @@ a.ok{
 	font-size:11px;
 	vertical-align:top;
 }
+.user-edit{
+	width:600px;
+	padding-right:20px;
+	float:left;
+	border-right:1px solid #929292;
+}
+.user-edit input.text-field{
+	width:295px;
+	height:15px;
+	margin-bottom:10px;
+	border:none;
+	color:#262626;
+	font-size:14px;
+	text-transform:uppercase;
+	font-family: "museo-sans-1","museo-sans-2";
+	font-weight:bold;
+	padding:15px 20px 15px 20px;
+	vertical-align:middle;
+}
+.user-edit input.field1{
+	background:url(../images/republic_logins1.png) no-repeat;
+}
+.user-edit input.field2{
+	background:url(../images/republic_logins2.png) no-repeat;
+}
+.user-edit input.field3{
+	background:url(../images/republic_logins3.png) no-repeat;
+}
+.user-edit input.update-settings{
+	float:left;
+	width:180px;
+	margin-left:265px;
+}
+.user-edit label{
+	font-family: "museo-sans-1","museo-sans-2";
+	color:#262626;
+	font-weight:bold;
+	float:left;
+	display:block;
+	width:250px;
+	font-size:14px;
+	margin-right:15px;
+	text-align:right;
+	padding-top:14px;
+}
+.user-edit a.del-account{
+	text-decoration:none !important;
+	color:#cfb033;
+	font-family: "museo-sans-1","museo-sans-2";
+	font-weight:bold;
+	font-size:12px;
+	float:right;
+	margin-top:10px;
+}
+.user-edit-sidebar{
+	padding:0 0 0 25px;
+	margin:0 !important;
+}
+.user-edit-sidebar h2{
+	text-align:left !important;
+	padding:0 0 10px 0 !important;
+	margin:0 !important;
+	border-bottom:1px solid #929292;
+}
+.user-edit-sidebar a{
+	padding:0 !important;
+	margin:0 !important;
+	float:left;
+}
+.change-avatar img, .change-avatar{
+	padding:0 !important;
+	margin:0 !important;
+}
+.change-avatar{
+	padding:25px 0 35px 0 !important;
+}
+.avatar-options{
+	float:left;
+}
+.buttons a{
+	display:block;
+	float:left;
+	color:#FFF !important;
+	padding:6px 8px !important;
+	text-decoration:none !important;
+}
+a.yellow-button{
+	clear:both;
+	background:#e3cb5d;
+}
+a.grey-button{
+	background:#9fa0a4;
+}
+.avatar-options a{
+	margin-top:8px !important;
+}
+.avatar-options{
+	margin-left:15px;
+}
