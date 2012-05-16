@@ -47,8 +47,8 @@
     </a>
     <span class="arrow right"></span>
     <ul class="sf-menu">
-      <li class="hot <?php if ($thisPage == "hot") echo 'current' ?>">
-        <a href="hot.php"><span>Hot</span></a>
+      <li>
+        <a href="vht.php"><span><img src="images/ht_03.png" width="36" height="49" alt="ht" /></span></a>
       </li>
       <li class="<?php if ($thisPage == "film") echo 'current' ?>">
         <a href="film.php"><span>Film</span></a>
@@ -76,10 +76,10 @@
           <li class="project"><a href="#">Sigourney Weaver Project</a></li>
         </ul>
       </li>
-      <li class="<?php if ($thisPage == "music") echo 'current' ?>">
-        <a href="music.php"><span>Music</span></a>
-        <ul class="internal music">
-          <span class="title">Music Genres</span>
+      <li class="<?php if ($thisPage == "viral") echo 'current' ?>">
+        <a href="viral.php"><span>Viral</span></a>
+        <ul class="internal viral">
+          <span class="title">Viral Genres</span>
           <li><a href="comedy-home.php">Comedy</a></li>
           <li class="project"><a href="film-project-home.php">Danny Divito Project</a></li>
           <li class="project"><a href="#">Chris Rock Project</a></li>
@@ -129,7 +129,7 @@
         </ul>
       </li>
       <li class="<?php if ($thisPage == "literature") echo 'current' ?>">
-        <a href="literature.php"><span>Literature</span></a>
+        <a href="literature.php"><span>Lit</span></a>
         <ul class="internal lit">
           <span class="title">Literature Genres</span>
           <li><a href="comedy-home.php">Comedy</a></li>
@@ -154,10 +154,10 @@
           <li class="project"><a href="#">Sigourney Weaver Project</a></li>
         </ul>
       </li>
-      <li class="<?php if ($thisPage == "viral") echo 'current' ?>">
-        <a href="viral.php"><span>Viral</span></a>
-        <ul class="internal viral">
-          <span class="title">Viral Genres</span>
+      <li class="<?php if ($thisPage == "music") echo 'current' ?>">
+        <a href="music.php"><span>Music</span></a>
+        <ul class="internal music">
+          <span class="title">Music Genres</span>
           <li><a href="comedy-home.php">Comedy</a></li>
           <li class="project"><a href="film-project-home.php">Danny Divito Project</a></li>
           <li class="project"><a href="#">Chris Rock Project</a></li>
@@ -179,6 +179,35 @@
           <li class="project"><a href="#">Robert Redford Project</a></li>
           <li class="project"><a href="#">Sigourney Weaver Project</a></li>
         </ul>
+      </li>
+      <li class="<?php if ($thisPage == "music") echo 'current' ?>">
+        <a href="music.php"><span>Gaming</span></a>
+        <ul class="internal music">
+          <span class="title">Gaming Genres</span>
+          <li><a href="comedy-home.php">Comedy</a></li>
+          <li class="project"><a href="film-project-home.php">Danny Divito Project</a></li>
+          <li class="project"><a href="#">Chris Rock Project</a></li>
+          <li><a href="#">Sci-Fi</a></li>
+          <li class="project"><a href="#">Natalie Portman Project</a></li>
+          <li class="project"><a href="#">Sigourney Weaver Project</a></li>
+          <li><a href="#">Western</a></li>
+          <li class="project"><a href="#">Clint Eastwood Project</a></li>
+          <li class="project"><a href="#">Kevin Costner Project</a></li>
+          <li><a href="#">Action</a></li>
+          <li class="project"><a href="#">Bruce Willis Project</a></li>
+          <li class="project"><a href="#">Jackie Chan Project</a></li>
+          <li><a href="#">Horror</a></li>
+          <li class="project"><a href="#">M. Night Shyamalan Project</a></li>
+          <li><a href="#">Romance</a></li>
+          <li class="project"><a href="#">Kate Winslet Project</a></li>
+          <li class="project"><a href="#">Dustin Hoffman Project</a></li>
+          <li><a href="#">Drama</a></li>
+          <li class="project"><a href="#">Robert Redford Project</a></li>
+          <li class="project"><a href="#">Sigourney Weaver Project</a></li>
+        </ul>
+      </li>
+      <li class="<?php if ($thisPage == "horde") echo 'current' ?>">
+      		<a href="music.php"><span><img src="images/horde_logo.png" width="131" height="34" alt="horde" /></span></a>
       </li>
 <!--      <li class="republic-home"><a title="Republic Home Page" class="home-badge" href="#"></a></li>-->
     </ul>

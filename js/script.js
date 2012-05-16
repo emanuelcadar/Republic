@@ -3,6 +3,10 @@ $(document).ready(function() {
 	$('.trophy-entry a').hover(function() {
 	 	$(this).toggleClass('visible');
 	});
+	$('.navigation-pitches ul li a').click(function() {
+		$('.navigation-pitches ul li a').removeClass('active');
+		$(this).addClass('active');
+	});	
     var submittedScene;
     var scrollLogo = false;
     

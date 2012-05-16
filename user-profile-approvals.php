@@ -78,7 +78,11 @@
                 </div>
                 <div class="user-right">
                 	<h4>RANK: <span>SCREENWRITER</span></h4>
-                    <img src="images/user-profile_06.png" width="115" height="131" alt="user">
+                    <h4 class="nob"><span>SCENE SUGGESTION VIEWS</span></h4>
+                    <img class="lg" src="images/user-profile_06.png" width="46" height="53" alt="user">
+                    <div class="graph">
+                    	<img src="images/img.png" width="255" height="115" alt="graph">
+                    </div>
                 </div>
             </div>  
         </header>
