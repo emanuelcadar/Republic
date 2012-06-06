@@ -298,6 +298,34 @@
                             </div>
                         </div>
                     </div>
+                    <h2>LATEST ACTIVITY</h2>
+                    <div class="scenes-list group">
+                    	<div class="act group">
+                        	<span class="upvote"></span>
+                        	<img src="images/user.png" width="35" height="35" alt="user">
+                            <div class="act-right">
+                                <p>You upvoted <a href="#">Scene 4 Suggestion</a> by <a href="#">Take5</a> in the <a href="#">Danny Divito Project</a></p>
+                                <em class="time">1 HOUR AGO</em>
+                            </div>
+                        </div>
+                        <div class="act group">
+                        	<span class="downvote"></span>
+                        	<img src="images/user.png" width="35" height="35" alt="user">
+                            <div class="act-right">
+                                <p><a href="#">Take5</a> downvoted <a href="#">Scene 4 Suggestion</a> in the <a href="#">Danny Divito Project</a></p>
+                                <em class="time">1 HOUR AGO</em>
+                            </div>
+                        </div>
+                        <div class="act group">
+                        	<span class="cmnts"></span>
+                        	<img src="images/user.png" width="35" height="35" alt="user">
+                            <div class="act-right">
+                                <p><a href="#">SceneMan</a> commented on <a href="#">Scene 4 Suggestion</a> in the <a href="#">Danny Divito Project</a></p>
+                                <em class="time">1 HOUR AGO</em>
+                            </div>
+                        </div>
+                        <a href="#" class="see-all">SEE ALL</a>
+                    </div>
                   </aside>
           </div>
         </div>

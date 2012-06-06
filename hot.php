@@ -55,7 +55,7 @@
         <div class="characters whats-hot">
           <h4>hottest submissions</h4>
           	<ul>
-              <li class="single standard-listing film">
+              <li class="single standard-listing film winner-project">
               	<a href="#" class="icon"></a>
                 <div class="vote-controls">
                     <button class="vote-up"></button>
