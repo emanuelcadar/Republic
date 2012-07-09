@@ -2477,6 +2477,8 @@ a.more-details{
 }
 .user-left a.avatar img{
 	float:left;
+	height:75px;
+	width:75px;
 }
 .user-info{
 	float:left;
@@ -3350,4 +3352,200 @@ a.follow-b:hover{
 }
 .older-activity a{
 	width:auto;
+}
+
+.guilds-header .user-left a.avatar{
+	border:6px solid #d1d3d4;
+	margin-top:20px;
+}
+span.back-guilds{
+	font-size:10px;
+	color:#231f20;
+	font-weight:bold;
+}
+span.back-guilds a{
+	color:#231f20;
+	text-decoration:none;
+}
+a.back-home{
+	background:url(../images/link-arrow.gif) no-repeat center left;
+	padding-left:21px;
+}
+.guilds-header .user-info{
+	margin-top:20px;
+}
+.guilds-header .user-left{
+	border:none;
+}
+.guilds-header .user-info h2{
+	margin-top:20px;
+}
+.guilds-header{
+	height:130px !important;
+}
+.guilds-header a.rounded-button{
+	color:#FFF;
+	font-weight:bold;
+	width:226px;
+	padding:0;
+	padding-top:15px;
+	padding-bottom:15px;
+	display:inline-block;
+	background:#9a989f;
+	margin-right:15px;
+	margin-top:15px;
+}
+.guilds-header .buttons{
+	float:right;
+}
+.total-points{
+	background:url(../images/guild-home---landing_07.png) no-repeat;
+	width:706px;
+	height:131px;
+	margin-top:20px;
+	font-family: "league-gothic-1","league-gothic-2";
+	padding-top:30px;
+}
+.total-points h2{
+	font-size:98px;
+	color:#231f20;
+	float:left;
+	margin-left:60px;
+	font-weight:100;
+}
+.ranks{
+	float:left;
+	margin-left:35px;
+	margin-top:10px;
+}
+.ranks p{
+	color:#808285;
+}
+.ranks p span{
+	display:inline-block;
+	font-size:9px;
+	font-family: "museo-sans-1","museo-sans-2";
+	font-weight:bold;
+}
+.ranks p strong{
+	display:inline-block;
+	font-size:30px;
+	font-weight:100;
+	margin-left:5px;
+}
+.guilds-status{
+	float:left;
+	margin-left:35px;
+}
+.tp-a{
+	border-top:1px solid #808285;
+}
+.tp-a span{
+	color:#808285;
+	font-size:11px;
+	font-family: "museo-sans-1","museo-sans-2";
+}
+.guilds-status p{
+	font-size:50px;
+	color:#a3a3a3;
+}
+.guilds-status p strong{
+	color:#231f20;
+	font-size:47px;
+	display:inline-block;
+	font-weight:100;
+}
+.guilds-status p span{
+	font-size:11px;
+	color:#808285;
+	display:inline-block;
+	margin-left:5px;
+	font-family: "museo-sans-1","museo-sans-2";
+	text-transform:uppercase;
+}
+.guilds-status p.smaller-p{
+	font-size:29px;
+}
+.guilds-status p.smaller-p strong{
+	color:#808285;
+	font-size:29px;
+}
+.guilds-status p.smaller-p span{
+	font-size:9px;	
+	margin-right:35px;
+}
+.other-infos{
+	font-family: "league-gothic-1","league-gothic-2";
+	background:url(../images/separator-characters.png) no-repeat top;
+	margin-top:40px;
+	padding:25px 0 0 0;
+	position:relative;
+}
+.other-infos .guilds-status p.smaller-p span{
+	margin-right:8px;
+}
+.other-infos .guilds-status p.smaller-p strong{
+	margin-right:146px;
+}
+.other-infos .guilds-status p span{
+	margin-right:105px;
+}
+.other-infos .guilds-status p.rep-e strong{
+	margin-right:2px;
+}
+.other-infos .guilds-status p.rep-e span{
+	margin-right:128px;
+}
+.other-infos .guilds-status p.smaller-p{
+	margin-top:8px;
+}
+.graph-guilds img{
+	float:left;
+}
+.points-res{
+	float:left;
+	margin:10px 0 0 15px;
+}
+.points-res p strong{
+	position:relative;
+	font-size:60px;
+	margin-right:10px;
+	min-width:90px;
+}
+.points-res p strong:after{
+	display:block;
+	content:".";
+	text-indent:-9999px;
+	height:13px;
+	width:13px;
+	background:#d9bd00;
+	position:absolute;
+	right:-30px;
+	top:10px;
+}
+.points-timeline{
+	right:0;
+	width:280px;
+	position:absolute;
+	font-family: "museo-sans-1","museo-sans-2";
+}
+.points-timeline h5{
+	margin-bottom:10px;
+}
+.guilds-sidebar{
+	float:right;
+	width:230px;
+	margin-left:25px;
+	margin-top:15px;
+}
+.guilds{
+	float:left;
+	width:715px;
+	margin-left:20px;
+}
+.guilds-sidebar h3{
+	font-family: "museo-sans-1","museo-sans-2";
+	background:url(../images/separator-characters.png) no-repeat bottom;
+	padding-bottom:10px;
+	margin-bottom:10px;
 }
