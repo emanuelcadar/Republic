@@ -3609,3 +3609,116 @@ a.back-home{
 .brainstorm .older-activity a{
 	margin-right:10px;
 }
+
+/* Selectmenu
+----------------------------------*/
+.ui-selectmenu { display: inline-block; position: relative; text-decoration: none; overflow: hidden; zoom: 1; }
+.ui-selectmenu-icon { position:absolute; right:6px; margin-top:-6px; top: 50%; }
+.ui-selectmenu-menu { padding:0; margin:0; position:absolute; top: 0; display: none; z-index: 1005;} /* z-index: 1005 to make selectmenu work with dialog */
+.ui-selectmenu-menu  ul { padding:0; margin:0; list-style:none; position: relative; overflow: auto; overflow-y: auto ; overflow-x: hidden; } 
+.ui-selectmenu-open { display: block; }
+.ui-selectmenu-menu-popup { margin-top: -1px; }
+.ui-selectmenu-menu-dropdown { }
+.ui-selectmenu-menu li { padding:0; margin:0; display: block; border-top: 1px dotted transparent; border-bottom: 1px dotted transparent; border-right-width: 0 !important; border-left-width: 0 !important; font-weight: normal !important; }
+.ui-selectmenu-menu li a,.ui-selectmenu-status { line-height: 1.4em; display: block; outline:none; color:#333; text-decoration:none; }
+
+.ui-selectmenu-menu li.ui-state-disabled a, .ui-state-disabled { cursor: default; }
+.ui-selectmenu-menu li.ui-selectmenu-hasIcon a,
+.ui-selectmenu-hasIcon .ui-selectmenu-status { padding-left: 20px; position: relative; margin-left: 5px; }
+.ui-selectmenu-menu li .ui-icon, .ui-selectmenu-status .ui-icon { position: absolute; top: 1em; margin-top: -8px; left: 0; }
+.ui-selectmenu-status { line-height: 1.4em; }
+.ui-selectmenu-open li.ui-selectmenu-item-focus a { }
+.ui-selectmenu-open li.ui-selectmenu-item-selected { color:#333; }
+.ui-selectmenu-menu li span,.ui-selectmenu-status span { display:block; margin-bottom: .2em; }
+.ui-selectmenu-menu li .ui-selectmenu-item-header { font-weight: bold; }
+.ui-selectmenu-menu li .ui-selectmenu-item-content { }
+.ui-selectmenu-menu li .ui-selectmenu-item-footer { opacity: .8; }
+/* for optgroups */
+.ui-selectmenu-menu .ui-selectmenu-group { font-size: 1em; }
+.ui-selectmenu-menu .ui-selectmenu-group .ui-selectmenu-group-label { line-height: 1.4em; display:block; padding: .6em .5em 0; font-weight: bold; }
+.ui-selectmenu-menu .ui-selectmenu-group ul { margin: 0; padding: 0; }
+/* IE6 workaround (dotted transparent borders) */
+* html .ui-selectmenu-menu li { border-color: pink; filter:chroma(color=pink); width:100%; }
+* html .ui-selectmenu-menu li a { position: relative }
+/* IE7 workaround (opacity disabled) */
+*+html .ui-state-disabled, *+html .ui-state-disabled a { color: silver; }
+
+
+
+.ui-selectmenu{
+	background:url(../images/pop-select.jpg) no-repeat;
+	font-family: "museo-sans-1","museo-sans-2";
+	height:32px;
+	font-size:20px;
+	padding:7px 15px;
+	position:relative;
+
+}
+.ui-selectmenu-menu{
+	border:1px solid #dcdcdc;
+	font-family: "museo-sans-1","museo-sans-2";
+	font-size:20px;
+	padding:7px 15px;
+	background:#FFF;
+	width:418px;
+	margin-top:41px;
+}
+.ui-selectmenu-menu a{
+	color:#000000;
+}
+.ui-selectmenu-menu a:hover{
+	color:#666;
+}
+
+.post-popup{
+	width:700px;
+	height:auto;
+	padding-bottom:65px;
+	margin-top:210px;
+}
+.post-popup form{
+	width:650px;
+}
+.post-popup input.text-fld{
+	background:url(../images/pop-input.jpg) no-repeat;
+	height:36px;
+	width:604px;
+	border:none;
+	font-size:20px;
+	padding:5px 15px;
+	font-family: "museo-sans-1","museo-sans-2";
+	color:#000000;
+}
+.post-popup textarea{
+	background:url(../images/pop-textarea.jpg) no-repeat;
+	width:619px;
+	height:190px;
+	border:none;
+	font-size:20px;
+	padding:15px;
+	font-weight:bold;
+	font-family: "museo-sans-1","museo-sans-2";
+	color:#000000;
+}
+.post-popup label{
+	display:block;
+	float:none;
+	width:auto;
+	margin-left:0;
+	color:#000000;
+	font-weight:bold;
+	font-size:13px;
+	font-family: "museo-sans-1","museo-sans-2";
+}
+.post-popup fieldset{
+	margin-top:15px;
+	position:relative;
+}
+.post-popup select{
+	width:451px;
+	position:relative !important;
+}
+a.blt span.ui-selectmenu-status{
+	background:url(../images/icon-film-small.png) no-repeat center left;
+	padding-left:25px;
+}
