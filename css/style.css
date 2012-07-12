@@ -3388,8 +3388,8 @@ a.back-home{
 	font-weight:bold;
 	width:226px;
 	padding:0;
-	padding-top:15px;
-	padding-bottom:15px;
+	padding-top:10px !important;
+	padding-bottom:10px !important;
 	display:inline-block;
 	background:#9a989f;
 	margin-right:15px;
@@ -3548,4 +3548,64 @@ a.back-home{
 	background:url(../images/separator-characters.png) no-repeat bottom;
 	padding-bottom:10px;
 	margin-bottom:10px;
+}
+.emp{
+	margin-top:40px;
+}
+.user-info span a{
+	color:#231f20;
+	font-size:11px;
+	font-family: "museo-sans-1","museo-sans-2";
+	text-decoration:none;
+	font-weight:bold;
+}
+.avatar-l{
+	float:left;
+}
+.avatar-l img{
+	width:40px;
+	height:40px;
+	float:left;
+}
+.avatar-l a{
+	border:3px solid #d1d3d4;
+	float:left;
+}
+.main section .brainstorm ul li.standard-listing{
+	width:966px;
+	background:url(../images/separator-characters.png) no-repeat bottom;
+	position:relative;
+	padding-bottom:20px;
+}
+.main section .brainstorm  ul li.single h3{
+	width:615px; 
+	margin-left:65px;
+}
+.main section .brainstorm ul li.single p{
+	width:615px; 
+	margin-left:65px;
+}
+.main section .brainstorm ul li.single ul.meta{
+	margin-left:65px;
+}
+.img-r{
+	position:absolute;
+	top:20px;
+	right:0;
+	padding:7px;
+	border:1px solid #d1d3d4;
+}
+.img-r img{
+	float:left;
+}
+.brainstorm{
+	margin-top:-45px;
+
+}
+.brainstorm .older-activity{
+	clear:both;
+	padding-top:25px;
+}
+.brainstorm .older-activity a{
+	margin-right:10px;
 }
