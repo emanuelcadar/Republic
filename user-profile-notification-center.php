@@ -204,7 +204,7 @@
             <div class="older-activity">
                    		<a href="#" class="rounded-button">SEE OLDER</a>
                         <a href="#" class="rounded-button">SEE NEWER</a>
-                   </div>
+            </div>
           </div>
         </div>
     </div> <!--! end of #container -->
