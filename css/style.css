@@ -126,6 +126,7 @@ a:hover { color: #036; }
 /* @group account dropdown */
 
 .account-options {
+	position:relative;
   float: right;
 }
 
@@ -2573,14 +2574,18 @@ a.edit-account{
 	color:#808285;
 	font-size:14px;
 	font-family: "museo-sans-1","museo-sans-2";
-	border-top:1px solid #949597;
 	border-bottom:1px solid #949597;
 	float:left;
 	padding:10px;
-	padding-right:35px;
+	text-align:left;
+	width:240px;
+}
+.user-right h4:first-child{
+	margin-top:-25px;
 }
 .user-right img.lg{
 	position:absolute;
+	top:-28px;
 	right:15px;
 }
 .user-right h4.nob{
@@ -3975,4 +3980,37 @@ span.snc-2{
 	margin-top:10px;
 	-webkit-border-radius: 4px;
     border-radius: 4px;
+}
+.messages-b{
+	background:url(../images/notf.jpg) no-repeat center right;
+	padding-right:38px;
+	position:absolute;
+	height:35px;
+	left:-45px;
+	display:block;
+	padding-top:10px;
+	text-decoration:none;
+}
+.messages-b span{
+	color:#d9c400;
+	font-size:10px;
+}
+.user-right a.rounded-button{
+	font-size:8px;
+	width:auto;
+	text-transform:uppercase;
+	padding:5px 18px;
+	font-weight:bold;
+	margin-top:0px;
+	-webkit-border-radius: 4px;
+    border-radius: 4px;
+	float:none;
+	display:inline-block;
+
+}
+.user-right h4 span{
+	margin-left:15px;
+}
+.user-right h4.nob span{
+	margin-left:0;
 }

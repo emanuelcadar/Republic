@@ -1,5 +1,8 @@
 <header>
   <div class="account-options logged-in">
+  <a href="#" class="messages-b">
+  	<span>2</span>
+  </a>
     <ul>
       <li>
         <span class="avatar"><img src="images/placeholder-avatar.jpg" alt=""></span>

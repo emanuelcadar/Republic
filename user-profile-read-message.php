@@ -79,8 +79,9 @@
                 </div>
                 <div class="user-right">
                 	<h4>RANK: <span>SCREENWRITER</span></h4>
+                    <h4>GUILD:  <span><a href="#" class="rounded-button">Draft Me</a></span></h4>
                     <h4 class="nob"><span>SCENE SUGGESTION VIEWS</span></h4>
-                    <img class="lg" src="images/user-profile_06.png" width="46" height="53" alt="user">
+                    <img class="lg" src="images/user-profile_06.png" width="35" height="40" alt="user">
                     <div class="graph">
                     	<img src="images/img.png" width="255" height="115" alt="graph">
                     </div>
