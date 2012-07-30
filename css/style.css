@@ -4014,3 +4014,52 @@ span.snc-2{
 .user-right h4.nob span{
 	margin-left:0;
 }
+.nominated{
+	border:5px solid #f1f2f2;
+	min-height:45px;
+	margin:20px;
+	padding:20px;
+}
+.nominated a.n-avt{
+	float:left;
+}
+.nom-left{
+	float:left;
+	margin-left:30px;
+}
+.nom-left p{
+	padding-top:5px;
+}
+.nom-left p a{
+	color:#000;
+	text-decoration:none;
+}
+.nbtn{
+	margin-top:15px;
+}
+.nbtn a.rounded-button{
+	width:75px;
+	padding-left:25px;
+	margin-right:15px;
+	text-align:center;
+}
+.nbtn a.approve:before{
+	display:block;
+	content:".";
+	text-indent:-9999px;
+	background:url(../images/approve.png) no-repeat;
+	height:17px;
+	width:8px;
+	position:absolute;
+	left:28px;
+}
+.nbtn a.veto:before{
+	display:block;
+	content:".";
+	text-indent:-9999px;
+	background:url(../images/veto.png) no-repeat;
+	height:14px;
+	width:14px;
+	position:absolute;
+	left:35px;
+}
